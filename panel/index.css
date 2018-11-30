@@ -1,0 +1,25 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+  }
+
+  .top {
+    height: 30px;
+  }
+
+  .middle {
+    flex: 1;
+    overflow: auto;
+  }
+  
+  .bottom {
+    height: 30%;
+  }
+
+  .te {
+    background: #252525;
+    border-radius: 3px;
+    color: #fd942b;
+    height:90%;
+  }
